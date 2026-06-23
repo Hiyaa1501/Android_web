@@ -8,7 +8,8 @@ fun main(args: Array<String>) {
 //  b = 40  val cannot be reassigned
 
     val e : Double = 10.7
-    print(e)
+    print("value of e is $e")
+    print("addition of $a and $b is ${a+b}") //operation
 }
 
 //variable identifies the value by itself that a is a integer
