@@ -9,7 +9,7 @@ fun main(args: Array<String>) {
 
     val e : Double = 10.7
     print("value of e is $e")
-    print("addition of $a and $b is ${a+b}") //operation
+    print("addition of $a and $b is ${a+b}") //operations
 }
 
 //variable identifies the value by itself that a is a integer
